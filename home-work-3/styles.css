@@ -1,0 +1,32 @@
+.main {
+    
+}
+
+
+.header {
+  display: flex;
+  flex-direction: row;
+  column-gap: 11px;
+  align-items: center;
+}
+
+.header-button-log {
+  color: #3d3d3d;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  background-color: transparent;
+  border: none;
+}
+
+.header-button-reg {
+  color: #46a358;
+
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 16px;
+  background-color: transparent;
+  border: none;
+}
